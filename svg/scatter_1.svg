@@ -1,0 +1,374 @@
+<svg width="636" height="486" viewBox="0 0 636 486" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 2">
+<rect id="Rectangle" width="531" height="311" transform="translate(105 17)" fill="url(#paint0_linear)" fill-opacity="0.11"/>
+<line id="Line 2.1" y1="-0.5" x2="528" y2="-0.5" transform="translate(106 432)" stroke="#AFAFAF"/>
+<line id="Line 2.2" y1="-0.5" x2="415" y2="-0.5" transform="translate(106 432) rotate(-90)" stroke="#AFAFAF"/>
+<text id="Current Megacities" transform="translate(516 44)" fill="#FF0000" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Bold" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="41.1719" y="12.992">Current </tspan><tspan x="14.6875" y="30.272">Megacities</tspan></text>
+<text id="Probable Megacities by 2030" transform="translate(516 380)" fill="#9B51E0" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Bold" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="49.8066" y="11.368">Probable </tspan><tspan x="34.7266" y="26.488">Megacities&#x2028;</tspan><tspan x="54.2637" y="41.608">by 2030</tspan></text>
+<rect id="Rectangle 2" x="-1" y="-1" width="108" height="34" transform="translate(55 2)" fill="#2A2A2A" stroke="white" stroke-width="2"/>
+<text id="24M" transform="translate(64 171)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0.164062" y="9.744">24M </tspan></text>
+<line id="Line 3" y1="-0.5" x2="6" y2="-0.5" transform="translate(96 177)" stroke="#929292"/>
+<text id="10M" transform="translate(66 322)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0.015625" y="9.744">10M </tspan></text>
+<line id="Line 3.4" y1="-0.5" x2="6" y2="-0.5" transform="translate(96 328)" stroke="#929292"/>
+<text id="35M" transform="translate(62 52)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0.105469" y="9.744">35M</tspan></text>
+<text id="1,700 flights/day" transform="translate(562 445)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="33.0391" y="9.744">1,700&#x2028;</tspan><tspan x="0.402344" y="24.144">flights/day</tspan></text>
+<line id="Line 3.1" y1="-0.5" x2="6" y2="-0.5" transform="translate(94 58)" stroke="#929292"/>
+<line id="Line 3.2" y1="-0.5" x2="6" y2="-0.5" transform="translate(612 442) rotate(-90)" stroke="#929292"/>
+<text id="664 flights/day" transform="translate(330 461)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0.917969" y="9.744">664 flights/day</tspan></text>
+<text id="0" transform="translate(92 427)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0.703125" y="9.744">0</tspan></text>
+<line id="Line 3.3" y1="-0.5" x2="6" y2="-0.5" transform="translate(376 458) rotate(-90)" stroke="#929292"/>
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(379.786 33)" fill="black"/>
+<path id="Vector_2" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(276.139 128.596)" fill="black"/>
+<path id="Vector_3" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(405.451 159.893)" fill="black"/>
+<path id="Vector_4" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(312.089 201.869)" fill="black"/>
+<path id="Vector_5" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(268.639 202.61)" fill="black"/>
+<path id="Vector_6" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(160.05 218.675)" fill="black"/>
+<path id="Vector_7" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(230.819 219.7)" fill="black"/>
+<path id="Vector_8" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(354.317 223.564)" fill="black"/>
+<path id="Vector_9" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23857 0 0 2.23858 0 5C0 7.76142 2.23857 10 5 10Z" transform="translate(136.008 223.987)" fill="black"/>
+<path id="Vector_10" d="M5.00001 10C7.76143 10 10 7.76142 10 5C10 2.23858 7.76143 0 5.00001 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5.00001 10Z" transform="translate(236.602 227.16)" fill="black"/>
+<path id="Vector_11" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(604 232.09)" fill="black"/>
+<path id="Vector_12" d="M5 10C7.76143 10 10 7.76142 10 5C10 2.23858 7.76143 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(124.937 268.592)" fill="black"/>
+<path id="Vector_13" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(177.256 273.222)" fill="black"/>
+<path id="Vector_14" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(212.804 274.596)" fill="black"/>
+<path id="Vector_15" d="M4.99998 10C7.76141 10 9.99998 7.76142 9.99998 5C9.99998 2.23858 7.76141 0 4.99998 0C2.23856 0 0 2.23858 0 5C0 7.76142 2.23856 10 4.99998 10Z" transform="translate(363.119 275.525)" fill="black"/>
+<path id="Vector_16" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(161.608 276.274)" fill="black"/>
+<path id="Vector_17" d="M5 10C7.76142 10 10 7.76144 10 5.00002C10 2.23859 7.76142 0 5 0C2.23858 0 0 2.23859 0 5.00002C0 7.76144 2.23858 10 5 10Z" transform="translate(208.687 289.065)" fill="black"/>
+<path id="Vector_18" d="M5 9.99998C7.76142 9.99998 10 7.76141 10 4.99998C10 2.23856 7.76142 0 5 0C2.23858 0 0 2.23856 0 4.99998C0 7.76141 2.23858 9.99998 5 9.99998Z" transform="translate(129.312 289.269)" fill="black"/>
+<path id="Vector_19" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(185.904 291.086)" fill="black"/>
+<path id="Vector_20" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(171.324 291.923)" fill="black"/>
+<path id="Vector_21" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(108 292.387)" fill="black"/>
+<path id="Vector_22" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(287.214 298.077)" fill="black"/>
+<path id="Vector_23" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(407.217 300.004)" fill="black"/>
+<path id="Vector_24" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(351.48 300.518)" fill="black"/>
+<path id="Vector_25" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(240.534 305.876)" fill="black"/>
+<path id="Vector_26" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(116.153 307.687)" fill="black"/>
+<path id="Vector_27" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(177.087 310.87)" fill="black"/>
+<path id="Vector_28" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(384.941 316.624)" fill="black"/>
+<path id="Vector_29" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(208.029 320.111)" fill="black"/>
+<path id="Vector_30" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(323.871 320.725)" fill="black"/>
+<path id="Vector_31" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(163.613 321.379)" fill="black"/>
+<path id="Vector_32" d="M5 10C7.76143 10 10 7.76142 10 5C10 2.23858 7.76143 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(171.077 322.073)" fill="black"/>
+<path id="Vector_33" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(243.135 324.574)" fill="black"/>
+<path id="Vector_34" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(294.856 326.633)" fill="black"/>
+<path id="Vector_35" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(189.518 331.505)" fill="black"/>
+<path id="Vector_36" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(158.34 331.777)" fill="black"/>
+<path id="Vector_37" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(551.822 336.422)" fill="black"/>
+<path id="Vector_38" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(169.215 338.03)" fill="black"/>
+<path id="Vector_39" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(525.051 338.368)" fill="black"/>
+<path id="Vector_40" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(231.431 338.91)" fill="black"/>
+<path id="Vector_41" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(186.857 344.983)" fill="black"/>
+<path id="Vector_42" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(175.323 345.72)" fill="black"/>
+<path id="Vector_43" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(194.497 346.043)" fill="black"/>
+<path id="Vector_44" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.078 350.005)" fill="black"/>
+<path id="Vector_45" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(127.842 351.001)" fill="black"/>
+<path id="Vector_46" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(444.268 352.25)" fill="black"/>
+<path id="Vector_47" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(226.495 353.528)" fill="black"/>
+<path id="Vector_48" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(268.667 353.691)" fill="black"/>
+<path id="Vector_49" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(287.214 354.422)" fill="black"/>
+<path id="Vector_50" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(212.78 355.753)" fill="black"/>
+<path id="Vector_51" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(105.32 356.182)" fill="black"/>
+<path id="Vector_52" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(152.776 359.11)" fill="black"/>
+<path id="Vector_53" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(178.377 359.267)" fill="black"/>
+<path id="Vector_54" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(159.691 361.682)" fill="black"/>
+<path id="Vector_55" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.26 362.929)" fill="black"/>
+<path id="Vector_56" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(252.254 363.639)" fill="black"/>
+<path id="Vector_57" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(124.94 365.332)" fill="black"/>
+<path id="Vector_58" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(155.465 367.715)" fill="black"/>
+<path id="Vector_59" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(326.412 367.723)" fill="black"/>
+<path id="Vector_60" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(411.973 367.891)" fill="black"/>
+<path id="Vector_61" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(283.253 368.066)" fill="black"/>
+<path id="Vector_62" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(129.133 368.438)" fill="black"/>
+<path id="Vector_63" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(372.181 368.564)" fill="black"/>
+<path id="Vector_64" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(142.386 369.243)" fill="black"/>
+<path id="Vector_65" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(252.952 371.167)" fill="black"/>
+<path id="Vector_66" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(238.649 372.197)" fill="black"/>
+<path id="Vector_67" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(449.562 373.511)" fill="black"/>
+<path id="Vector_68" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23857 0 0 2.23858 0 5C0 7.76142 2.23857 10 5 10Z" transform="translate(171.312 373.743)" fill="black"/>
+<path id="Vector_69" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(118.96 373.92)" fill="black"/>
+<path id="Vector_70" d="M5 10C7.76142 10 9.99999 7.76142 9.99999 5C9.99999 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(228.021 374.346)" fill="black"/>
+<path id="Vector_71" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(188.275 374.433)" fill="black"/>
+<path id="Vector_72" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(156.383 375.532)" fill="black"/>
+<path id="Vector_73" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(174.626 375.557)" fill="black"/>
+<path id="Vector_74" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(159.044 376.415)" fill="black"/>
+<path id="Vector_75" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(312.385 377.416)" fill="black"/>
+<path id="Vector_76" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(137.172 377.94)" fill="black"/>
+<path id="Vector_77" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.575 378.701)" fill="black"/>
+<path id="Vector_78" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(148.276 379.07)" fill="black"/>
+<path id="Vector_79" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(148.358 379.379)" fill="black"/>
+<path id="Vector_80" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(182.053 380.257)" fill="black"/>
+<path id="Vector_81" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(114.552 380.467)" fill="black"/>
+<path id="Vector_82" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(146.293 380.486)" fill="black"/>
+<path id="Vector_83" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(113.135 381.591)" fill="black"/>
+<path id="Vector_84" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(232.293 381.839)" fill="black"/>
+<path id="Vector_85" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(199.474 382.067)" fill="black"/>
+<path id="Vector_86" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(143.549 382.693)" fill="black"/>
+<path id="Vector_87" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(154.268 385.284)" fill="black"/>
+<path id="Vector_88" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(191.309 385.677)" fill="black"/>
+<path id="Vector_89" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23857 0 0 2.23858 0 5C0 7.76142 2.23857 10 5 10Z" transform="translate(139.936 385.703)" fill="black"/>
+<path id="Vector_90" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(139.816 386.031)" fill="black"/>
+<path id="Vector_91" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(156.96 386.178)" fill="black"/>
+<path id="Vector_92" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(254.376 386.47)" fill="black"/>
+<path id="Vector_93" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(173.392 386.616)" fill="black"/>
+<path id="Vector_94" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(253.15 387.012)" fill="black"/>
+<path id="Vector_95" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(167.611 387.279)" fill="black"/>
+<path id="Vector_96" d="M5 10C7.76143 10 10 7.76142 10 5C10 2.23858 7.76143 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(136.916 387.726)" fill="black"/>
+<path id="Vector_97" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(240.592 387.84)" fill="black"/>
+<path id="Vector_98" d="M5.00001 10C7.76143 10 10 7.76142 10 5C10 2.23858 7.76143 0 5.00001 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5.00001 10Z" transform="translate(235.461 388.058)" fill="black"/>
+<path id="Vector_99" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(119.525 388.442)" fill="black"/>
+<path id="Vector_100" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(187.33 388.464)" fill="black"/>
+<path id="Vector_101" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(129.802 389.29)" fill="black"/>
+<path id="Vector_102" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(129.04 390.002)" fill="black"/>
+<path id="Vector_103" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(110.686 390.172)" fill="black"/>
+<path id="Vector_104" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(166.259 390.177)" fill="black"/>
+<path id="Vector_105" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(154.892 390.18)" fill="black"/>
+<path id="Vector_106" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(133.332 390.512)" fill="black"/>
+<path id="Vector_107" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(120.444 390.539)" fill="black"/>
+<path id="Vector_108" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(133.044 390.834)" fill="black"/>
+<path id="Vector_109" d="M5 10C7.76143 10 10 7.76142 10 5C10 2.23858 7.76143 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(137.319 391.006)" fill="black"/>
+<path id="Vector_110" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(105.103 392.218)" fill="black"/>
+<path id="Vector_111" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(133.214 392.27)" fill="black"/>
+<path id="Vector_112" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(127.555 392.927)" fill="black"/>
+<path id="Vector_113" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(143.04 393.229)" fill="black"/>
+<path id="Vector_114" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(118.279 393.323)" fill="black"/>
+<path id="Vector_115" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(137.055 393.675)" fill="black"/>
+<path id="Vector_116" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.953 393.973)" fill="black"/>
+<path id="Vector_117" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(146.028 394.266)" fill="black"/>
+<path id="Vector_118" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(257.104 394.569)" fill="black"/>
+<path id="Vector_119" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(179.833 394.727)" fill="black"/>
+<path id="Vector_120" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(128.67 394.791)" fill="black"/>
+<path id="Vector_121" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(206.264 395.079)" fill="black"/>
+<path id="Vector_122" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(143.533 395.292)" fill="black"/>
+<path id="Vector_123" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(116.719 395.587)" fill="black"/>
+<path id="Vector_124" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(146.434 395.989)" fill="black"/>
+<path id="Vector_125" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(133.009 396.495)" fill="black"/>
+<path id="Vector_126" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(110.203 396.573)" fill="black"/>
+<path id="Vector_127" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(104.628 396.888)" fill="black"/>
+<path id="Vector_128" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(266.618 396.924)" fill="black"/>
+<path id="Vector_129" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23857 0 0 2.23858 0 5C0 7.76142 2.23857 10 5 10Z" transform="translate(139.142 396.993)" fill="black"/>
+<path id="Vector_130" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.525 396.999)" fill="black"/>
+<path id="Vector_131" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(371.609 397.5)" fill="black"/>
+<path id="Vector_132" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(105.866 397.656)" fill="black"/>
+<path id="Vector_133" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(109.264 398.601)" fill="black"/>
+<path id="Vector_134" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(178.591 398.708)" fill="black"/>
+<path id="Vector_135" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(143.602 398.73)" fill="black"/>
+<path id="Vector_136" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(113.769 399.105)" fill="black"/>
+<path id="Vector_137" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(116.513 399.135)" fill="black"/>
+<path id="Vector_138" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23857 0 0 2.23858 0 5C0 7.76142 2.23857 10 5 10Z" transform="translate(172.249 399.312)" fill="black"/>
+<path id="Vector_139" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(124.94 399.436)" fill="black"/>
+<path id="Vector_140" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(160.639 399.519)" fill="black"/>
+<path id="Vector_141" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(124.044 399.545)" fill="black"/>
+<path id="Vector_142" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(240.302 399.563)" fill="black"/>
+<path id="Vector_143" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(126.693 399.937)" fill="black"/>
+<path id="Vector_144" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.526 399.941)" fill="black"/>
+<path id="Vector_145" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.637 400.282)" fill="black"/>
+<path id="Vector_146" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(108.547 400.35)" fill="black"/>
+<path id="Vector_147" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(131.61 401.65)" fill="black"/>
+<path id="Vector_148" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(104 401.658)" fill="black"/>
+<path id="Vector_149" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(121.197 401.672)" fill="black"/>
+<path id="Vector_150" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(120.22 401.843)" fill="black"/>
+<path id="Vector_151" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23857 0 0 2.23858 0 5C0 7.76142 2.23857 10 5 10Z" transform="translate(168.734 402.014)" fill="black"/>
+<path id="Vector_152" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(118.495 402.053)" fill="black"/>
+<path id="Vector_153" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(110.977 402.87)" fill="black"/>
+<path id="Vector_154" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(110.003 403.023)" fill="black"/>
+<path id="Vector_155" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(117.653 406.958)" fill="black"/>
+<path id="Vector_156" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(118.32 414.532)" fill="black"/>
+<path id="Vector_157" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(135.006 418.905)" fill="black"/>
+<path id="Vector_158" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(104.1 410.469)" fill="black"/>
+<path id="Vector_159" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(104.4 418.539)" fill="black"/>
+<path id="Vector_160" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(131.676 410.959)" fill="black"/>
+<path id="Vector_161" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(110.429 418.743)" fill="black"/>
+<path id="Vector_162" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(299.565 420.918)" fill="black"/>
+<path id="Vector_163" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(104.904 415.921)" fill="black"/>
+<path id="Vector_164" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(142.66 420.358)" fill="black"/>
+<path id="Vector_165" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(168.363 416.379)" fill="black"/>
+<path id="Vector_166" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(105.172 417.239)" fill="black"/>
+<path id="Vector_167" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(152.24 412.555)" fill="black"/>
+<path id="Vector_168" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(119.996 408.598)" fill="black"/>
+<path id="Vector_169" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(198.273 408.29)" fill="black"/>
+<path id="Vector_170" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(108.236 406.879)" fill="black"/>
+<path id="Vector_171" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(116.329 405.906)" fill="black"/>
+<path id="Vector_172" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(111.583 410.624)" fill="black"/>
+<path id="Vector_173" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(104.564 420.31)" fill="black"/>
+<path id="Vector_174" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(113.323 409.317)" fill="black"/>
+<path id="Vector_175" d="M5 10C7.76143 10 10 7.76142 10 5C10 2.23858 7.76143 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(122.772 418.047)" fill="black"/>
+<path id="Vector_176" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.799 408.685)" fill="black"/>
+<path id="Vector_177" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.353 421.252)" fill="black"/>
+<path id="Vector_178" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(107.56 409.197)" fill="black"/>
+<path id="Vector_179" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(181.23 408.039)" fill="black"/>
+<path id="Vector_180" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.09 419.176)" fill="black"/>
+<path id="Vector_181" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(140.507 414.216)" fill="black"/>
+<path id="Vector_182" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(175.316 417.236)" fill="black"/>
+<path id="Vector_183" d="M5 10C7.76143 10 10 7.76142 10 5C10 2.23858 7.76143 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(120.864 403.899)" fill="black"/>
+<path id="Vector_184" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.001 417.581)" fill="black"/>
+<path id="Vector_185" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.021 421.152)" fill="black"/>
+<path id="Vector_186" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(312.542 412.87)" fill="black"/>
+<path id="Vector_187" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(107.863 420.019)" fill="black"/>
+<path id="Vector_188" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(132.824 420.879)" fill="black"/>
+<path id="Vector_189" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(109.572 421.199)" fill="black"/>
+<path id="Vector_190" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(148.63 414.504)" fill="black"/>
+<path id="Vector_191" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(146.421 414.042)" fill="black"/>
+<path id="Vector_192" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(114.867 419.79)" fill="black"/>
+<path id="Vector_193" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.119 404.809)" fill="black"/>
+<path id="Vector_194" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.237 413.323)" fill="black"/>
+<path id="Vector_195" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.479 415.291)" fill="black"/>
+<path id="Vector_196" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(188.135 420.174)" fill="black"/>
+<path id="Vector_197" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(139.345 418.082)" fill="black"/>
+<path id="Vector_198" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(105.209 420.873)" fill="black"/>
+<path id="Vector_199" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(108.233 420.638)" fill="black"/>
+<path id="Vector_200" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(110.199 415.582)" fill="black"/>
+<path id="Vector_201" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(141.384 415.272)" fill="black"/>
+<path id="Vector_202" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(128.216 421.3)" fill="black"/>
+<path id="Vector_203" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(104.143 418.936)" fill="black"/>
+<path id="Vector_204" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(166.072 413.726)" fill="black"/>
+<path id="Vector_205" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(161.517 413.86)" fill="black"/>
+<path id="Vector_206" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(110.723 416.826)" fill="black"/>
+<path id="Vector_207" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(170.49 419.345)" fill="black"/>
+<path id="Vector_208" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(105.838 417.703)" fill="black"/>
+<path id="Vector_209" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.713 410.632)" fill="black"/>
+<path id="Vector_210" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(140.625 411.556)" fill="black"/>
+<path id="Vector_211" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(145.527 414.283)" fill="black"/>
+<path id="Vector_212" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(105.477 417.938)" fill="black"/>
+<path id="Vector_213" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(104.844 421.25)" fill="black"/>
+<path id="Vector_214" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(105.574 418.084)" fill="black"/>
+<path id="Vector_215" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.091 419.444)" fill="black"/>
+<path id="Vector_216" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(104.142 418.746)" fill="black"/>
+<path id="Vector_217" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(149.304 415.244)" fill="black"/>
+<path id="Vector_218" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23857 0 0 2.23858 0 5C0 7.76142 2.23857 10 5 10Z" transform="translate(137.585 418.804)" fill="black"/>
+<path id="Vector_219" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.115 419.612)" fill="black"/>
+<path id="Vector_220" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(104.341 420.541)" fill="black"/>
+<path id="Vector_221" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(107.336 419.435)" fill="black"/>
+<path id="Vector_222" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(111.32 421.14)" fill="black"/>
+<path id="Vector_223" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(117.567 413.633)" fill="black"/>
+<path id="Vector_224" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(245.436 405.873)" fill="black"/>
+<path id="Vector_225" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(108.588 414.817)" fill="black"/>
+<path id="Vector_226" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(108.538 411.198)" fill="black"/>
+<path id="Vector_227" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(107.581 409.132)" fill="black"/>
+<path id="Vector_228" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(111.184 406.056)" fill="black"/>
+<path id="Vector_229" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(146.014 414.957)" fill="black"/>
+<path id="Vector_230" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(109.036 415.11)" fill="black"/>
+<path id="Vector_231" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.643 409.82)" fill="black"/>
+<path id="Vector_232" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(181.105 404.278)" fill="black"/>
+<path id="Vector_233" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(116.619 418.331)" fill="black"/>
+<path id="Vector_234" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(109.75 421.238)" fill="black"/>
+<path id="Vector_235" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.438 409.739)" fill="black"/>
+<path id="Vector_236" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(104.563 408.397)" fill="black"/>
+<path id="Vector_237" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23857 0 0 2.23858 0 5C0 7.76142 2.23857 10 5 10Z" transform="translate(137.739 408.603)" fill="black"/>
+<path id="Vector_238" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(125.545 420.844)" fill="black"/>
+<path id="Vector_239" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(110.665 420.9)" fill="black"/>
+<path id="Vector_240" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(134.712 417.682)" fill="black"/>
+<path id="Vector_241" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.306 420.041)" fill="black"/>
+<path id="Vector_242" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(104.943 417.859)" fill="black"/>
+<path id="Vector_243" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.107 414.457)" fill="black"/>
+<path id="Vector_244" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(107.514 412.383)" fill="black"/>
+<path id="Vector_245" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.994 420.478)" fill="black"/>
+<path id="Vector_246" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.462 420.042)" fill="black"/>
+<path id="Vector_247" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(107.681 419.502)" fill="black"/>
+<path id="Vector_248" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(120.348 415.539)" fill="black"/>
+<path id="Vector_249" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.938 420.357)" fill="black"/>
+<path id="Vector_250" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(236.378 412.91)" fill="black"/>
+<path id="Vector_251" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(107.332 405.976)" fill="black"/>
+<path id="Vector_252" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(121.687 415.221)" fill="black"/>
+<path id="Vector_253" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(143.609 411.747)" fill="black"/>
+<path id="Vector_254" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(107.801 410.958)" fill="black"/>
+<path id="Vector_255" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(156.595 414.658)" fill="black"/>
+<path id="Vector_256" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(107.096 420.855)" fill="black"/>
+<path id="Vector_257" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(110.544 404.851)" fill="black"/>
+<path id="Vector_258" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(189.624 410.542)" fill="black"/>
+<path id="Vector_259" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(136.172 419.048)" fill="black"/>
+<path id="Vector_260" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(120.59 420.139)" fill="black"/>
+<path id="Vector_261" d="M5 10C7.76143 10 10 7.76142 10 5C10 2.23858 7.76143 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(122.986 416.257)" fill="black"/>
+<path id="Vector_262" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.646 413.286)" fill="black"/>
+<path id="Vector_263" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(108.767 416.763)" fill="black"/>
+<path id="Vector_264" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(105.557 414.134)" fill="black"/>
+<path id="Vector_265" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(109.134 418.38)" fill="black"/>
+<path id="Vector_266" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.974 417.113)" fill="black"/>
+<path id="Vector_267" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(144.808 411.069)" fill="black"/>
+<path id="Vector_268" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(201.162 420.76)" fill="black"/>
+<path id="Vector_269" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(112.523 420.5)" fill="black"/>
+<path id="Vector_270" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23857 0 0 2.23858 0 5C0 7.76142 2.23857 10 5 10Z" transform="translate(137.649 409.33)" fill="black"/>
+<path id="Vector_271" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(152.616 414.035)" fill="black"/>
+<path id="Vector_272" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(151.329 406.798)" fill="black"/>
+<path id="Vector_273" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(121.014 421.185)" fill="black"/>
+<path id="Vector_274" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(119.028 415.477)" fill="black"/>
+<path id="Vector_275" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(167.614 404.55)" fill="black"/>
+<path id="Vector_276" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(120.333 413.784)" fill="black"/>
+<path id="Vector_277" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(120.104 408.377)" fill="black"/>
+<path id="Vector_278" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(115.097 415.865)" fill="black"/>
+<path id="Vector_279" d="M5 10C7.76143 10 10 7.76142 10 5C10 2.23858 7.76143 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(123.687 419.416)" fill="black"/>
+<path id="Vector_280" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(110.738 416.832)" fill="black"/>
+<path id="Vector_281" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(173.131 409.375)" fill="black"/>
+<path id="Vector_282" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(220.441 416.101)" fill="black"/>
+<path id="Vector_283" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(109.418 416.109)" fill="black"/>
+<path id="Vector_284" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(107.928 421.091)" fill="black"/>
+<path id="Vector_285" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(113.152 406.695)" fill="black"/>
+<path id="Vector_286" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(110.02 418.449)" fill="black"/>
+<path id="Vector_287" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(124.946 411.027)" fill="black"/>
+<path id="Vector_288" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(108.903 420.893)" fill="black"/>
+<path id="Vector_289" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(123.791 408.544)" fill="black"/>
+<path id="Vector_290" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(111.902 420.95)" fill="black"/>
+<path id="Vector_291" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(125.258 413.14)" fill="black"/>
+<path id="Vector_292" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(204.161 405.982)" fill="black"/>
+<path id="Vector_293" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(107.46 412.6)" fill="black"/>
+<path id="Vector_294" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(106.745 406.67)" fill="black"/>
+<path id="Vector_295" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(111.082 420.02)" fill="black"/>
+<path id="Vector_296" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(121.937 417.504)" fill="black"/>
+<path id="Vector_297" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(109.929 411.077)" fill="black"/>
+<path id="Vector_298" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(109.819 412.708)" fill="black"/>
+<path id="Vector_299" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(128.55 407.819)" fill="black"/>
+<path id="Vector_300" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(120.241 417.177)" fill="black"/>
+<path id="Vector_301" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(111.703 417.714)" fill="black"/>
+<path id="Vector_302" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(128.986 417.167)" fill="black"/>
+<path id="Vector_303" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(108.482 419.899)" fill="black"/>
+<path id="Vector_304" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(132.701 415.158)" fill="black"/>
+</g>
+</g>
+<text id="Population" transform="translate(64 10)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Bold" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="0.453125" y="12.992">Population</tspan></text>
+<rect id="Rectangle 2.1" x="-1" y="-1" width="162" height="34" transform="translate(290 414)" fill="#2A2A2A" stroke="white" stroke-width="2"/>
+<text id="Flights per Day" transform="translate(314 423)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="16" letter-spacing="0em"><tspan x="0.4375" y="12.992">Flights per Day</tspan></text>
+<text id="London" transform="translate(533 347)" fill="white" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">London</tspan></text>
+<text id="Kuala Lumpur" transform="translate(353 348)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Kuala </tspan><tspan x="0" y="28.168">Lumpur</tspan></text>
+<text id="Seoul" transform="translate(308 324)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Seoul</tspan></text>
+<text id="Chengdu" transform="translate(252 335)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Chengdu</tspan></text>
+<text id="Ho Chi Minh City" transform="translate(232 457)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Ho Chi </tspan><tspan x="0" y="24.808">Minh City</tspan></text>
+<text id="Nanjing" transform="translate(167 443)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Nanjing</tspan></text>
+<text id="Tehran" transform="translate(138 469)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Tehran</tspan></text>
+<text id="Ahmadabad" transform="translate(21 378)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Ahmadabad</tspan></text>
+<text id="Luanda" transform="translate(26 353)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Luanda</tspan></text>
+<text id="Kinshasa" transform="translate(31 284)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Kinshasa</tspan></text>
+<text id="Lagos" transform="translate(154 249)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Lagos</tspan></text>
+<text id="Bangalore" transform="translate(245 279)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Bangalore</tspan></text>
+<text id="Lahore" transform="translate(43 299)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Lahore</tspan></text>
+<text id="Dar es Salaam" transform="translate(-1 406)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Dar es Salaam</tspan></text>
+<text id="Hyderabad" transform="translate(57 450)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Hyderabad</tspan></text>
+<path id="Vector 7" d="M0 79.5V0" transform="translate(192 362)" stroke="white"/>
+<path id="Vector 7.1" d="M0 116.52V0" transform="translate(172 353) rotate(5.44033)" stroke="white"/>
+<path id="Vector 7.2" d="M0 103.441V0" transform="translate(160 347) rotate(16.8591)" stroke="white"/>
+<path id="Vector 7.3" d="M0 30.4138V0" transform="translate(126 364) rotate(46.3322)" stroke="white"/>
+<path id="Vector 7.5" d="M0 30.0666V0" transform="translate(109 358) rotate(86.1859)" stroke="white"/>
+<path id="Vector 7.6" d="M0 20.2237V0" transform="translate(112 312) rotate(98.5308)" stroke="white"/>
+<path id="Vector 7.7" d="M0 13.3417V0" transform="translate(105 298) rotate(102.995)" stroke="white"/>
+<text id="Tokyo" transform="translate(335 33)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Tokyo</tspan></text>
+<text id="New York" transform="translate(537 231)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">New York</tspan></text>
+<text id="Karachi" transform="translate(40 267)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Karachi</tspan></text>
+<path id="Vector 7.12" d="M0 28V0" transform="translate(120 277) rotate(90)" stroke="white"/>
+<path id="Vector 7.9" d="M0 99.7246V0" transform="translate(230 454) rotate(164.291)" stroke="white"/>
+<path id="Vector 7.8" d="M0 27.7308V0" transform="translate(151 264) rotate(25.641)" stroke="white"/>
+<path id="Vector 7.13" d="M0 57.7754V0" transform="translate(242 291) rotate(66.541)" stroke="white"/>
+<path id="Vector 7.10" d="M0 5.09902V0" transform="translate(249 344) rotate(78.6901)" stroke="white"/>
+<text id="Singapore" transform="translate(285 390)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Regular" font-size="14" letter-spacing="0em"><tspan x="0" y="11.368">Singapore</tspan></text>
+<path id="Vector 7.14" d="M0 21.4709V0" transform="translate(283 391) rotate(117.759)" stroke="white"/>
+<path id="Vector 7.4" d="M0 43.1393V0" transform="translate(128 381) rotate(44.0608)" stroke="white"/>
+<path id="Arrow 5" d="M32.3536 0.353553C32.5488 0.158291 32.5488 -0.158291 32.3536 -0.353553L29.1716 -3.53553C28.9763 -3.7308 28.6597 -3.7308 28.4645 -3.53553C28.2692 -3.34027 28.2692 -3.02369 28.4645 -2.82843L31.2929 0L28.4645 2.82843C28.2692 3.02369 28.2692 3.34027 28.4645 3.53553C28.6597 3.7308 28.9763 3.7308 29.1716 3.53553L32.3536 0.353553ZM0 0.5H32V-0.5H0V0.5Z" transform="translate(626 321) rotate(-90)" fill="#FF0000"/>
+<text id="10+ million people" transform="translate(539 301)" stroke="#2A2A2A" stroke-width="2" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Bold" font-size="11" font-weight="bold" letter-spacing="0.08em"><tspan x="11.529" y="8.932">10+ MILLION </tspan><tspan x="42.1077" y="22.132">PEOPLE</tspan></text>
+<text id="10+ million people_2" transform="translate(539 301)" fill="#FF0000" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Bold" font-size="11" font-weight="bold" letter-spacing="0.08em"><tspan x="11.529" y="8.932">10+ MILLION </tspan><tspan x="42.1077" y="22.132">PEOPLE</tspan></text>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(531) scale(531 311) rotate(90)">
+<stop stop-color="#FF0000" stop-opacity="0"/>
+<stop offset="1" stop-color="#FF0000"/>
+</linearGradient>
+</defs>
+</svg>
