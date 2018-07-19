@@ -3,6 +3,46 @@
 function resize() {}
 
 function init() {
+
+var translation = [["Al-Iskandariyah (Alexandria)","Alexandria"],
+["Ar-Riyadh (Riyadh)","Ar-Riyadh"],
+["Athínai (Athens)","Athens"],
+["Krung Thep (Bangkok)","Bangkok"],
+["Al-Qahirah (Cairo)","Cairo"],
+["Kozhikode (Calicut)","Calicut"],
+["Dar-el-Beida (Casablanca)","Casablanca"],
+["Changzhou, Jiangsu","Changzhao"],
+["Chennai (Madras)","Chennai"],
+["Dallas-Fort Worth","Dallas"],
+["Durban (Ethekwini)","Durban"],
+["Fuzhou, Fujian","Fuzhou"],
+["Guangzhou, Guangdong","Guangzhao"],
+["Thành Pho Ho Chí Minh (Ho Chi Minh City)","Ho Chi Minh City"],
+["Kolkata (Calcutta)","Kolkata"],
+["Los Angeles-Long Beach-Santa Ana","Los Angeles"],
+["Ciudad de México (Mexico City)","Mexico City"],
+["Milano (Milan)","Milan"],
+["Moskva (Moscow)","Moscow"],
+["Mumbai (Bombay)","Mumbai"],
+["Chukyo M.M.A. (Nagoya)","Nagoya"],
+["Nanjing, Jiangsu","Nanjing"],
+["New York Newark","New York"],
+["Kinki M.M.A. (Osaka)","Osaka"],
+["Phoenix-Mesa","Phoenix"],
+["Pôrto Alegre","Porto Alegre"],
+["Sankt Peterburg (Saint Petersburg)","Saint Petersburg"],
+["São Paulo","Sao Paulo"],
+["Suzhou, Jiangsu","Suzhao"],
+["Tel Aviv-Yafo (Tel Aviv-Jaffa)","Tel Aviv"],
+["Ürümqi (Wulumqi)","Urumqi"],
+["Wuxi, Jiangsu","Wuxi"],
+["Xi'an, Shaanxi","Xi'an"]];
+
+var translationMap = d3.map(translation,function(d){ return d[0]});
+
+var translationArray = translation.map(function(d){return d[0]});
+
+
 	var scatterChartWrapper = d3.select(".scatter-wrapper");
 	var scatterTooltip = scatterChartWrapper.select(".scatter-tooltip");
 
@@ -11,6 +51,13 @@ function init() {
 
 	scatterBubbles.on("mouseover",function(d){
 		var text = d3.select(this).attr("id");
+
+		console.log(translationMap.has(text));
+
+		if(translationMap.has(text)){
+			text = translationMap.get(text)[1];
+		}
+
 		scatterTooltip.select("p").text(text);
 		scatterTooltip.style("visibility","visible")
 		scatterBubbles.style("stroke",null).style("stroke-width",null)
