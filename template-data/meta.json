@@ -1,13 +1,13 @@
 {
-	"title": "Title Case Headline Goes Here",
+	"title": "What Airport Traffic Tells Us About the World's Megacities",
 	"description":
-		"Your dek goes here. It is probably one or two sentences that succinctly describe more explicitly what the story will be about.",
-	"url": "https://pudding.cool/year/month/name/",
-	"keywords": "tk",
+		"Last year, Daniel Knowles wrote an account of Kinshasa, the capital of the Democratic Republic of Congo, a city of 13 million people. One of his stats led me down a rabbit hole: Kinshasa has 13 departing flights per day.",
+	"url": "https://pudding.cool/2018/07/airports/",
+	"keywords": "Airports, Megacities, Population Growth",
 	"imgFacebook":
-		"https://pudding.cool/year/month/name/assets/social/social-facebook.jpg",
+		"https://pudding.cool/2018/07/airports/assets/social/social-facebook.jpg",
 	"imgTwitter":
-		"https://pudding.cool/year/month/name/assets/social/social-twitter.jpg",
+		"https://pudding.cool/2018/07/airports/assets/social/social-twitter.jpg",
 	"author": {
 		"name": "Matt Daniels",
 		"url": "https://pudding.cool/author/matt-daniels/",
