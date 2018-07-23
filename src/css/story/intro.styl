@@ -2,6 +2,8 @@
 	margin 0 auto
 	max-width $column-width
 	margin-bottom 4rem
+	@media (max-width: $column-width)
+		width 95%
 	sup
 		color #FFEB3B
 		font-family 'Atlas Grotesk Web'
@@ -53,9 +55,25 @@
 					cursor hand
 					cursor pointer
 
+
+	#pyramid-med
+		display none
+		margin-top 2rem
+		@media (max-width: 750px)
+			display block
+		@media (max-width: 550px)
+			display none
+	#pyramid-mobile
+		display none
+		margin-top 2rem
+		@media (max-width: 550px)
+			display block
 	#pyramid
 		margin-top 3rem
 		//margin-bottom 3rem
+		@media (max-width: 750px)
+			display none
+
 
 	.chart-head
 		color white
@@ -127,6 +145,23 @@
 		background-repeat no-repeat
 		position relative
 		margin-bottom 3rem
+		@media (max-width: 750px)
+			height 410px
+		@media (max-width: 650px)
+			background-image url('assets/images/map_med.png')
+			&:after
+				content ''
+		@media (max-width: 550px)
+			height 350px
+		@media (max-width: 450px)
+			height 325px
+			background-image url('assets/images/map_small.png')
+			&:after
+				content 'Except Paris has 927 departing flights per day. Kinshasa has only 13.'
+			.source
+				display none
+		@media (max-width: 375px)
+			height 300px
 		.source
 			position absolute
 			bottom 0px
@@ -145,7 +180,6 @@
 			font-family 'Atlas Grotesk Web'
 			font-weight 400
 			font-size 18px
-
 	.intro__hed
 		max-width $column-width
 		margin 0 auto

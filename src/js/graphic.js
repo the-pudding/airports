@@ -42,6 +42,11 @@ var translationMap = d3.map(translation,function(d){ return d[0]});
 
 var translationArray = translation.map(function(d){return d[0]});
 
+d3.select("#pyramid-med").select("svg").attr("width",null).attr("height",null)
+d3.select("#pyramid-mobile").select("svg").attr("width",null).attr("height",null)
+d3.select("#pyramid").select("svg").attr("width",null).attr("height",null)
+d3.select("#arrow").select("svg").attr("width",null).attr("height",null)
+d3.select("#scatter").select("svg").attr("width",null).attr("height",null)
 
 	var scatterChartWrapper = d3.select(".scatter-wrapper");
 	var scatterTooltip = scatterChartWrapper.select(".scatter-tooltip");
