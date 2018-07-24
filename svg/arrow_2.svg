@@ -1,0 +1,88 @@
+<svg width="591" height="497" viewBox="0 0 591 497" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 2" filter="url(#filter0_d)">
+<rect id="Rectangle 3" width="500" height="202" transform="translate(55 13)" fill="url(#paint0_linear)" fill-opacity="0.11"/>
+<line id="Line 2.5" y1="-0.5" x2="243" y2="-0.5" transform="translate(312 216)" stroke="#358BA6" stroke-dasharray="3 2"/>
+<circle id="Ellipse" cx="5.5" cy="5.5" r="5.5" transform="translate(149 210)" fill="#FFD600" fill-opacity="0.36"/>
+<circle id="Ellipse_2" cx="5.5" cy="5.5" r="5.5" transform="translate(254 206)" fill="#FFD600" fill-opacity="0.36"/>
+<g id="Ellipse_3" transform="translate(58 132)">
+<circle cx="5.5" cy="5.5" r="5.5" fill="#9B51E0" fill-opacity="0.21"/>
+<circle cx="5.5" cy="5.5" r="5.5" fill="#9B51E0" fill-opacity="0.21"/>
+</g>
+<line id="Line 2.3" y1="-0.5" x2="498" y2="-0.5" transform="translate(57 440)" stroke="#AFAFAF"/>
+<line id="Line 2.4" y1="-0.5" x2="415" y2="-0.5" transform="translate(57 440) rotate(-90)" stroke="#AFAFAF"/>
+<text id="10 million people" transform="translate(377 210)" stroke="#2A2A2A" stroke-width="2" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Bold" font-size="11" font-weight="bold" letter-spacing="0.08em"><tspan x="0.148399" y="8.932">10 MILLION PEOPLE</tspan></text>
+<text id="10 million people_2" transform="translate(377 210)" fill="#3CA3C3" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Bold" font-size="11" font-weight="bold" letter-spacing="0.08em"><tspan x="0.148399" y="8.932">10 MILLION PEOPLE</tspan></text>
+<text id="8.5M" transform="translate(11 249)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0.882812" y="9.744">8.5M </tspan></text>
+<line id="Line 3.7" y1="-0.5" x2="6" y2="-0.5" transform="translate(47 255)" stroke="#929292"/>
+<text id="13M" transform="translate(17 149)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0.730469" y="9.744">13M </tspan></text>
+<line id="Line 3.10" y1="-0.5" x2="6" y2="-0.5" transform="translate(47 155)" stroke="#929292"/>
+<text id="15M" transform="translate(17 51)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0.683594" y="9.744">15M </tspan></text>
+<line id="Line 3.9" y1="-0.5" x2="6" y2="-0.5" transform="translate(47 57)" stroke="#929292"/>
+<text id="4.5M" transform="translate(11 346)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0.765625" y="9.744">4.5M </tspan></text>
+<line id="Line 3.8" y1="-0.5" x2="6" y2="-0.5" transform="translate(47 352)" stroke="#929292"/>
+<text id="0" transform="translate(43 436)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0.703125" y="9.744">0</tspan></text>
+<text id="1,700 flights/day" transform="translate(483 458)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="33.0391" y="9.744">1,700&#x2028;</tspan><tspan x="0.402344" y="24.144">flights/day</tspan></text>
+<line id="Line 3.5" y1="-0.5" x2="6" y2="-0.5" transform="translate(533 455) rotate(-90)" stroke="#929292"/>
+<text id="664 flights/day" transform="translate(251 474)" fill="#919191" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0.917969" y="9.744">664 flights/day</tspan></text>
+<line id="Line 3.6" y1="-0.5" x2="6" y2="-0.5" transform="translate(297 471) rotate(-90)" stroke="#929292"/>
+<rect id="Rectangle 2.2" x="-1" y="-1" width="108" height="34" transform="translate(6 7)" fill="#2A2A2A" stroke="white" stroke-width="2"/>
+<text id="Population" transform="translate(15 15)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Bold" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="0.453125" y="12.992">Population</tspan></text>
+<rect id="Rectangle 2.3" x="-1" y="-1" width="162" height="34" transform="translate(222 425)" fill="#2A2A2A" stroke="white" stroke-width="2"/>
+<text id="Flights per Day" transform="translate(245 434)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Bold" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="0.0078125" y="12.992">Flights per Day</tspan></text>
+<path id="Arrow" d="M140.743 0.707107C141.133 0.316583 141.133 -0.316583 140.743 -0.707107L134.379 -7.07107C133.988 -7.46159 133.355 -7.46159 132.965 -7.07107C132.574 -6.68054 132.574 -6.04738 132.965 -5.65685L138.621 0L132.965 5.65685C132.574 6.04738 132.574 6.68054 132.965 7.07107C133.355 7.46159 133.988 7.46159 134.379 7.07107L140.743 0.707107ZM0 1H140.036V-1H0V1Z" transform="translate(399 43) rotate(-6.97277)" fill="#4CAF50" fill-opacity="0.7"/>
+<path id="Arrow 2" d="M150.754 0.707107C151.144 0.316583 151.144 -0.316583 150.754 -0.707107L144.39 -7.07107C143.999 -7.46159 143.366 -7.46159 142.976 -7.07107C142.585 -6.68054 142.585 -6.04738 142.976 -5.65685L148.632 0L142.976 5.65685C142.585 6.04738 142.585 6.68054 142.976 7.07107C143.366 7.46159 143.999 7.46159 144.39 7.07107L150.754 0.707107ZM0 1H150.047V-1H0V1Z" transform="translate(116 240) rotate(-33.5842)" fill="#F2994A" fill-opacity="0.7"/>
+<path id="Arrow 2.1" d="M125.061 0.707107C125.452 0.316583 125.452 -0.316583 125.061 -0.707107L118.697 -7.07107C118.307 -7.46159 117.674 -7.46159 117.283 -7.07107C116.893 -6.68054 116.893 -6.04738 117.283 -5.65685L122.94 0L117.283 5.65685C116.893 6.04738 116.893 6.68054 117.283 7.07107C117.674 7.46159 118.307 7.46159 118.697 7.07107L125.061 0.707107ZM0 1H124.354V-1H0V1Z" transform="translate(74 292) rotate(-62.1985)" fill="#EA3874" fill-opacity="0.78"/>
+<path id="Arrow 2.2" d="M132.722 0.707107C133.113 0.316583 133.113 -0.316583 132.722 -0.707107L126.358 -7.07107C125.968 -7.46159 125.335 -7.46159 124.944 -7.07107C124.554 -6.68054 124.554 -6.04738 124.944 -5.65685L130.601 0L124.944 5.65685C124.554 6.04738 124.554 6.68054 124.944 7.07107C125.335 7.46159 125.968 7.46159 126.358 7.07107L132.722 0.707107ZM0 1H132.015V-1H0V1Z" transform="translate(62 277) rotate(-89.1319)" fill="#9B51E0"/>
+<text id="Kinshasa" transform="translate(22.1852 109.035) rotate(-0.698605)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="10.2393" y="11.368">Kinshasa</tspan></text>
+<text id="Kinshasa_2" transform="translate(22.1852 109.035) rotate(-0.698605)" fill="#AA65EA" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="10.2393" y="11.368">Kinshasa</tspan></text>
+<text id="Bangalore" transform="translate(91.3998 148.689)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="12.8496" y="11.368">Bangalore</tspan></text>
+<text id="Bangalore_2" transform="translate(91.3998 148.689)" fill="#DC4F7F" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="12.8496" y="11.368">Bangalore</tspan></text>
+<text id="Guangzhao" transform="translate(213 125)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="6.80566" y="11.368">Guangzhao</tspan></text>
+<text id="Guangzhou" transform="translate(213 125)" fill="#F2994A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="6.42968" y="11.368">Guangzhou</tspan></text>
+<text id="New York City" transform="translate(476 2)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="2.18359" y="11.368">New York City</tspan></text>
+<text id="New York City_2" transform="translate(476 2)" fill="#82C785" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="2.18359" y="11.368">New York City</tspan></text>
+<text id="2018" transform="translate(48.993 125.072) rotate(0.286232)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="1.43114" y="8.932">2018</tspan></text>
+<text id="2018_2" transform="translate(48.993 125.072) rotate(0.286232)" fill="#9B51E0" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="1.43114" y="8.932">2018</tspan></text>
+<circle id="Ellipse_4" cx="5.5" cy="5.5" r="5.5" transform="translate(56 279)" fill="#9B51E0" fill-opacity="0.21"/>
+<circle id="Ellipse_5" cx="5.5" cy="5.5" r="5.5" transform="translate(65 293)" fill="#EA3874" fill-opacity="0.23"/>
+<circle id="Ellipse_6" cx="5.5" cy="5.5" r="5.5" transform="translate(130 170)" fill="#EA3874" fill-opacity="0.23"/>
+<circle id="Ellipse_7" cx="5.5" cy="5.5" r="5.5" transform="translate(241 147)" fill="#F2994A" fill-opacity="0.39"/>
+<circle id="Ellipse_8" cx="5.5" cy="5.5" r="5.5" transform="translate(105 239)" fill="#F2994A" fill-opacity="0.39"/>
+<circle id="Ellipse_9" cx="5.5" cy="5.5" r="5.5" transform="translate(386 39)" fill="#4CAF50" fill-opacity="0.35"/>
+<circle id="Ellipse_10" cx="5.5" cy="5.5" r="5.5" transform="translate(535 20)" fill="#4CAF50" fill-opacity="0.35"/>
+<text id="2003" transform="translate(42.0849 283) rotate(0.286232)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="2.39132" y="8.932">2003</tspan></text>
+<text id="2003_2" transform="translate(42.0849 283) rotate(0.286232)" fill="#9B51E0" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="2.39132" y="8.932">2003</tspan></text>
+<text id="2003_3" transform="translate(53.9922 300.089)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="2.39132" y="8.932">2003</tspan></text>
+<text id="2003_4" transform="translate(53.9922 300.089)" fill="#EA3874" fill-opacity="0.78" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="2.39132" y="8.932">2003</tspan></text>
+<text id="2018_3" transform="translate(117.929 166.294)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="5.29171" y="8.932">2018</tspan></text>
+<text id="2018_4" transform="translate(117.929 166.294)" fill="#EA3874" fill-opacity="0.78" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="5.29171" y="8.932">2018</tspan></text>
+<text id="2003_5" transform="translate(92.0953 244.75)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="2.39132" y="8.932">2003</tspan></text>
+<text id="2003_6" transform="translate(92.0953 244.75)" fill="#F2994A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="2.39132" y="8.932">2003</tspan></text>
+<text id="2018_5" transform="translate(240.126 143.836)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="5.29171" y="8.932">2018</tspan></text>
+<text id="2018_6" transform="translate(240.126 143.836)" fill="#F2994A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="5.29171" y="8.932">2018</tspan></text>
+<text id="2018_7" transform="translate(254.766 206.133)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="5.29171" y="8.932">2018</tspan></text>
+<text id="2018_8" transform="translate(254.766 206.133)" fill="#FFD600" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="5.29171" y="8.932">2018</tspan></text>
+<text id="2018_9" transform="translate(536.06 20.1921)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="5.29171" y="8.932">2018</tspan></text>
+<text id="2018_10" transform="translate(536.06 20.1921)" fill="#82C785" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="5.29171" y="8.932">2018</tspan></text>
+<text id="2003_7" transform="translate(361.469 39.2351)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="2.39132" y="8.932">2003</tspan></text>
+<text id="2003_8" transform="translate(361.469 39.2351)" fill="#82C785" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="2.39132" y="8.932">2003</tspan></text>
+<path id="Arrow 3" d="M89.7577 0.707107C90.1482 0.316583 90.1482 -0.316583 89.7577 -0.707107L83.3937 -7.07107C83.0032 -7.46159 82.37 -7.46159 81.9795 -7.07107C81.589 -6.68054 81.589 -6.04738 81.9795 -5.65685L87.6363 0L81.9795 5.65685C81.589 6.04738 81.589 6.68054 81.9795 7.07107C82.37 7.46159 83.0032 7.46159 83.3937 7.07107L89.7577 0.707107ZM0 1H89.0505V-1H0V1Z" transform="translate(163 215) rotate(-1.93059)" fill="#FFD600" fill-opacity="0.7"/>
+<text id="Seoul" transform="translate(200 191)" stroke="#2A2A2A" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="52.7266" y="11.368">Seoul</tspan></text>
+<text id="Seoul_2" transform="translate(200 191)" fill="#FFD600" xml:space="preserve" style="white-space: pre" font-family="Atlas Grotesk" font-style="Medium" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="52.7266" y="11.368">Seoul</tspan></text>
+</g>
+<defs>
+<filter id="filter0_d" x="0" y="0.968018" width="591" height="496.032" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(500) scale(500 202) rotate(90)">
+<stop stop-color="#2A2A2A"/>
+<stop offset="1" stop-color="#358BA6"/>
+</linearGradient>
+</defs>
+</svg>
